@@ -1,7 +1,7 @@
 let intentos = 5;
 let palabra = "";
 //
-const diccionario = [ 'CHINO', 'TOROS', 'CARACOL', 'PALOMA', 'ESTERNOCLEIDOMASTOIDEO', 'OTOÑO', 'LIBRO', 'VERDE', 'LECHE', ];
+const diccionario = [ 'CHINO', 'TOROS', 'SECAR', 'PALOMA', 'GATOS', 'OTOÑO', 'LIBRO', 'VERDE', 'LECHE', ];
 //
 function init() {
 //
